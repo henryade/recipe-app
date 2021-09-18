@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/src/Recipe/ind.tsx
+/src/utils/data.ts
+/src/**/*/__snapshots__/
+.tsx.snap
 # testing
 /coverage
 
